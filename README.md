@@ -1,2 +1,2 @@
-# eduardobsantoss.github.io
+# eduardo.bsantoss.github.io
 Meu site de Apresentação
